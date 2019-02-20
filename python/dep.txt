@@ -1,0 +1,225 @@
+__main__: /home/yzy/myStudy/PythonTest/embedPython/python/../qt/embedPython/res/rcssmin-1.0.5/rcssmin.py
+re: /usr/local/anaconda3/lib/python3.6/re.py
+enum: /usr/local/anaconda3/lib/python3.6/enum.py
+sys: None
+types: /usr/local/anaconda3/lib/python3.6/types.py
+functools: /usr/local/anaconda3/lib/python3.6/functools.py
+_functools: None
+abc: /usr/local/anaconda3/lib/python3.6/abc.py
+_weakrefset: /usr/local/anaconda3/lib/python3.6/_weakrefset.py
+_weakref: None
+collections: /usr/local/anaconda3/lib/python3.6/collections/__init__.py
+_collections_abc: /usr/local/anaconda3/lib/python3.6/_collections_abc.py
+operator: /usr/local/anaconda3/lib/python3.6/operator.py
+builtins: None
+_operator: None
+keyword: /usr/local/anaconda3/lib/python3.6/keyword.py
+heapq: /usr/local/anaconda3/lib/python3.6/heapq.py
+_heapq: /usr/local/anaconda3/lib/python3.6/lib-dynload/_heapq.cpython-36m-x86_64-linux-gnu.so
+doctest: /usr/local/anaconda3/lib/python3.6/doctest.py
+__future__: /usr/local/anaconda3/lib/python3.6/__future__.py
+argparse: /usr/local/anaconda3/lib/python3.6/argparse.py
+copy: /usr/local/anaconda3/lib/python3.6/copy.py
+weakref: /usr/local/anaconda3/lib/python3.6/weakref.py
+itertools: None
+atexit: None
+gc: None
+copyreg: /usr/local/anaconda3/lib/python3.6/copyreg.py
+os: /usr/local/anaconda3/lib/python3.6/os.py
+errno: None
+stat: /usr/local/anaconda3/lib/python3.6/stat.py
+_stat: None
+posix: None
+posixpath: /usr/local/anaconda3/lib/python3.6/posixpath.py
+genericpath: /usr/local/anaconda3/lib/python3.6/genericpath.py
+pwd: None
+ntpath: /usr/local/anaconda3/lib/python3.6/ntpath.py
+warnings: /usr/local/anaconda3/lib/python3.6/warnings.py
+_warnings: None
+linecache: /usr/local/anaconda3/lib/python3.6/linecache.py
+tokenize: /usr/local/anaconda3/lib/python3.6/tokenize.py
+codecs: /usr/local/anaconda3/lib/python3.6/codecs.py
+_codecs: None
+encodings: /usr/local/anaconda3/lib/python3.6/encodings/__init__.py
+encodings.aliases: /usr/local/anaconda3/lib/python3.6/encodings/aliases.py
+_bootlocale: /usr/local/anaconda3/lib/python3.6/_bootlocale.py
+_locale: None
+locale: /usr/local/anaconda3/lib/python3.6/locale.py
+encodings.mbcs: /usr/local/anaconda3/lib/python3.6/encodings/mbcs.py
+io: /usr/local/anaconda3/lib/python3.6/io.py
+_io: None
+token: /usr/local/anaconda3/lib/python3.6/token.py
+tracemalloc: /usr/local/anaconda3/lib/python3.6/tracemalloc.py
+fnmatch: /usr/local/anaconda3/lib/python3.6/fnmatch.py
+pickle: /usr/local/anaconda3/lib/python3.6/pickle.py
+struct: /usr/local/anaconda3/lib/python3.6/struct.py
+_struct: /usr/local/anaconda3/lib/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so
+_compat_pickle: /usr/local/anaconda3/lib/python3.6/_compat_pickle.py
+_pickle: /usr/local/anaconda3/lib/python3.6/lib-dynload/_pickle.cpython-36m-x86_64-linux-gnu.so
+pprint: /usr/local/anaconda3/lib/python3.6/pprint.py
+time: None
+_tracemalloc: None
+string: /usr/local/anaconda3/lib/python3.6/string.py
+_string: None
+subprocess: /usr/local/anaconda3/lib/python3.6/subprocess.py
+signal: /usr/local/anaconda3/lib/python3.6/signal.py
+_signal: None
+threading: /usr/local/anaconda3/lib/python3.6/threading.py
+_thread: None
+traceback: /usr/local/anaconda3/lib/python3.6/traceback.py
+_collections: None
+_threading_local: /usr/local/anaconda3/lib/python3.6/_threading_local.py
+contextlib: /usr/local/anaconda3/lib/python3.6/contextlib.py
+_posixsubprocess: /usr/local/anaconda3/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so
+select: /usr/local/anaconda3/lib/python3.6/lib-dynload/select.cpython-36m-x86_64-linux-gnu.so
+selectors: /usr/local/anaconda3/lib/python3.6/selectors.py
+math: /usr/local/anaconda3/lib/python3.6/lib-dynload/math.cpython-36m-x86_64-linux-gnu.so
+dummy_threading: /usr/local/anaconda3/lib/python3.6/dummy_threading.py
+_dummy_thread: /usr/local/anaconda3/lib/python3.6/_dummy_thread.py
+textwrap: /usr/local/anaconda3/lib/python3.6/textwrap.py
+gettext: /usr/local/anaconda3/lib/python3.6/gettext.py
+difflib: /usr/local/anaconda3/lib/python3.6/difflib.py
+inspect: /usr/local/anaconda3/lib/python3.6/inspect.py
+ast: /usr/local/anaconda3/lib/python3.6/ast.py
+_ast: None
+dis: /usr/local/anaconda3/lib/python3.6/dis.py
+opcode: /usr/local/anaconda3/lib/python3.6/opcode.py
+_opcode: /usr/local/anaconda3/lib/python3.6/lib-dynload/_opcode.cpython-36m-x86_64-linux-gnu.so
+collections.abc: /usr/local/anaconda3/lib/python3.6/collections/abc.py
+importlib: /usr/local/anaconda3/lib/python3.6/importlib/__init__.py
+_imp: None
+importlib._bootstrap: /usr/local/anaconda3/lib/python3.6/importlib/_bootstrap.py
+importlib._bootstrap_external: /usr/local/anaconda3/lib/python3.6/importlib/_bootstrap_external.py
+importlib.machinery: /usr/local/anaconda3/lib/python3.6/importlib/machinery.py
+pdb: /usr/local/anaconda3/lib/python3.6/pdb.py
+cmd: /usr/local/anaconda3/lib/python3.6/cmd.py
+readline: /usr/local/anaconda3/lib/python3.6/lib-dynload/readline.cpython-36m-x86_64-linux-gnu.so
+bdb: /usr/local/anaconda3/lib/python3.6/bdb.py
+reprlib: /usr/local/anaconda3/lib/python3.6/reprlib.py
+code: /usr/local/anaconda3/lib/python3.6/code.py
+codeop: /usr/local/anaconda3/lib/python3.6/codeop.py
+glob: /usr/local/anaconda3/lib/python3.6/glob.py
+shlex: /usr/local/anaconda3/lib/python3.6/shlex.py
+pydoc: /usr/local/anaconda3/lib/python3.6/pydoc.py
+importlib.util: /usr/local/anaconda3/lib/python3.6/importlib/util.py
+importlib.abc: /usr/local/anaconda3/lib/python3.6/importlib/abc.py
+pkgutil: /usr/local/anaconda3/lib/python3.6/pkgutil.py
+zipimport: None
+marshal: None
+platform: /usr/local/anaconda3/lib/python3.6/platform.py
+plistlib: /usr/local/anaconda3/lib/python3.6/plistlib.py
+binascii: /usr/local/anaconda3/lib/python3.6/lib-dynload/binascii.cpython-36m-x86_64-linux-gnu.so
+datetime: /usr/local/anaconda3/lib/python3.6/datetime.py
+_datetime: /usr/local/anaconda3/lib/python3.6/lib-dynload/_datetime.cpython-36m-x86_64-linux-gnu.so
+_strptime: /usr/local/anaconda3/lib/python3.6/_strptime.py
+calendar: /usr/local/anaconda3/lib/python3.6/calendar.py
+xml: /usr/local/anaconda3/lib/python3.6/xml/__init__.py
+xml.parsers: /usr/local/anaconda3/lib/python3.6/xml/parsers/__init__.py
+xml.parsers.expat: /usr/local/anaconda3/lib/python3.6/xml/parsers/expat.py
+pyexpat: /usr/local/anaconda3/lib/python3.6/lib-dynload/pyexpat.cpython-36m-x86_64-linux-gnu.so
+socket: /usr/local/anaconda3/lib/python3.6/socket.py
+_socket: /usr/local/anaconda3/lib/python3.6/lib-dynload/_socket.cpython-36m-x86_64-linux-gnu.so
+urllib: /usr/local/anaconda3/lib/python3.6/urllib/__init__.py
+urllib.parse: /usr/local/anaconda3/lib/python3.6/urllib/parse.py
+tempfile: /usr/local/anaconda3/lib/python3.6/tempfile.py
+shutil: /usr/local/anaconda3/lib/python3.6/shutil.py
+zlib: /usr/local/anaconda3/lib/python3.6/lib-dynload/zlib.cpython-36m-x86_64-linux-gnu.so
+bz2: /usr/local/anaconda3/lib/python3.6/bz2.py
+_compression: /usr/local/anaconda3/lib/python3.6/_compression.py
+_bz2: /usr/local/anaconda3/lib/python3.6/lib-dynload/_bz2.cpython-36m-x86_64-linux-gnu.so
+lzma: /usr/local/anaconda3/lib/python3.6/lzma.py
+_lzma: /usr/local/anaconda3/lib/python3.6/lib-dynload/_lzma.cpython-36m-x86_64-linux-gnu.so
+grp: /usr/local/anaconda3/lib/python3.6/lib-dynload/grp.cpython-36m-x86_64-linux-gnu.so
+tarfile: /usr/local/anaconda3/lib/python3.6/tarfile.py
+gzip: /usr/local/anaconda3/lib/python3.6/gzip.py
+zipfile: /usr/local/anaconda3/lib/python3.6/zipfile.py
+py_compile: /usr/local/anaconda3/lib/python3.6/py_compile.py
+random: /usr/local/anaconda3/lib/python3.6/random.py
+hashlib: /usr/local/anaconda3/lib/python3.6/hashlib.py
+_hashlib: /usr/local/anaconda3/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so
+logging: /usr/local/anaconda3/lib/python3.6/logging/__init__.py
+_sha1: /usr/local/anaconda3/lib/python3.6/lib-dynload/_sha1.cpython-36m-x86_64-linux-gnu.so
+_md5: /usr/local/anaconda3/lib/python3.6/lib-dynload/_md5.cpython-36m-x86_64-linux-gnu.so
+_sha256: /usr/local/anaconda3/lib/python3.6/lib-dynload/_sha256.cpython-36m-x86_64-linux-gnu.so
+_sha512: /usr/local/anaconda3/lib/python3.6/lib-dynload/_sha512.cpython-36m-x86_64-linux-gnu.so
+_blake2: /usr/local/anaconda3/lib/python3.6/lib-dynload/_blake2.cpython-36m-x86_64-linux-gnu.so
+_sha3: /usr/local/anaconda3/lib/python3.6/lib-dynload/_sha3.cpython-36m-x86_64-linux-gnu.so
+bisect: /usr/local/anaconda3/lib/python3.6/bisect.py
+_bisect: /usr/local/anaconda3/lib/python3.6/lib-dynload/_bisect.cpython-36m-x86_64-linux-gnu.so
+_random: /usr/local/anaconda3/lib/python3.6/lib-dynload/_random.cpython-36m-x86_64-linux-gnu.so
+tty: /usr/local/anaconda3/lib/python3.6/tty.py
+termios: /usr/local/anaconda3/lib/python3.6/lib-dynload/termios.cpython-36m-x86_64-linux-gnu.so
+pydoc_data: /usr/local/anaconda3/lib/python3.6/pydoc_data/__init__.py
+pydoc_data.topics: /usr/local/anaconda3/lib/python3.6/pydoc_data/topics.py
+http: /usr/local/anaconda3/lib/python3.6/http/__init__.py
+http.server: /usr/local/anaconda3/lib/python3.6/http/server.py
+email: /usr/local/anaconda3/lib/python3.6/email/__init__.py
+email.parser: /usr/local/anaconda3/lib/python3.6/email/parser.py
+email.feedparser: /usr/local/anaconda3/lib/python3.6/email/feedparser.py
+email.errors: /usr/local/anaconda3/lib/python3.6/email/errors.py
+email._policybase: /usr/local/anaconda3/lib/python3.6/email/_policybase.py
+email.header: /usr/local/anaconda3/lib/python3.6/email/header.py
+email.quoprimime: /usr/local/anaconda3/lib/python3.6/email/quoprimime.py
+email.base64mime: /usr/local/anaconda3/lib/python3.6/email/base64mime.py
+base64: /usr/local/anaconda3/lib/python3.6/base64.py
+getopt: /usr/local/anaconda3/lib/python3.6/getopt.py
+email.charset: /usr/local/anaconda3/lib/python3.6/email/charset.py
+email.encoders: /usr/local/anaconda3/lib/python3.6/email/encoders.py
+quopri: /usr/local/anaconda3/lib/python3.6/quopri.py
+email.utils: /usr/local/anaconda3/lib/python3.6/email/utils.py
+email._parseaddr: /usr/local/anaconda3/lib/python3.6/email/_parseaddr.py
+email.message: /usr/local/anaconda3/lib/python3.6/email/message.py
+uu: /usr/local/anaconda3/lib/python3.6/uu.py
+optparse: /usr/local/anaconda3/lib/python3.6/optparse.py
+email._encoded_words: /usr/local/anaconda3/lib/python3.6/email/_encoded_words.py
+email.iterators: /usr/local/anaconda3/lib/python3.6/email/iterators.py
+email.generator: /usr/local/anaconda3/lib/python3.6/email/generator.py
+email.policy: /usr/local/anaconda3/lib/python3.6/email/policy.py
+email.headerregistry: /usr/local/anaconda3/lib/python3.6/email/headerregistry.py
+email._header_value_parser: /usr/local/anaconda3/lib/python3.6/email/_header_value_parser.py
+email.contentmanager: /usr/local/anaconda3/lib/python3.6/email/contentmanager.py
+html: /usr/local/anaconda3/lib/python3.6/html/__init__.py
+html.entities: /usr/local/anaconda3/lib/python3.6/html/entities.py
+http.client: /usr/local/anaconda3/lib/python3.6/http/client.py
+ssl: /usr/local/anaconda3/lib/python3.6/ssl.py
+ipaddress: /usr/local/anaconda3/lib/python3.6/ipaddress.py
+_ssl: /usr/local/anaconda3/lib/python3.6/lib-dynload/_ssl.cpython-36m-x86_64-linux-gnu.so
+mimetypes: /usr/local/anaconda3/lib/python3.6/mimetypes.py
+socketserver: /usr/local/anaconda3/lib/python3.6/socketserver.py
+webbrowser: /usr/local/anaconda3/lib/python3.6/webbrowser.py
+unittest: /usr/local/anaconda3/lib/python3.6/unittest/__init__.py
+unittest.result: /usr/local/anaconda3/lib/python3.6/unittest/result.py
+unittest.util: /usr/local/anaconda3/lib/python3.6/unittest/util.py
+unittest.case: /usr/local/anaconda3/lib/python3.6/unittest/case.py
+unittest.suite: /usr/local/anaconda3/lib/python3.6/unittest/suite.py
+unittest.loader: /usr/local/anaconda3/lib/python3.6/unittest/loader.py
+unittest.main: /usr/local/anaconda3/lib/python3.6/unittest/main.py
+unittest.runner: /usr/local/anaconda3/lib/python3.6/unittest/runner.py
+unittest.signals: /usr/local/anaconda3/lib/python3.6/unittest/signals.py
+sre_compile: /usr/local/anaconda3/lib/python3.6/sre_compile.py
+_sre: None
+sre_parse: /usr/local/anaconda3/lib/python3.6/sre_parse.py
+sre_constants: /usr/local/anaconda3/lib/python3.6/sre_constants.py
+--------------------------------------------------
+### Modules NOT imported ###
+org.python.core
+nt
+collections.Sequence
+collections.Iterable
+os.path
+collections.ChainMap
+collections.deque
+msvcrt
+_winapi
+collections.namedtuple
+collections.Mapping
+_dummy_threading
+_frozen_importlib
+_frozen_importlib_external
+collections.OrderedDict
+winreg
+_winreg
+java.lang
+vms_lib
+http.HTTPStatus
+_rcssmin
