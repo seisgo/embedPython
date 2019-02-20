@@ -11,7 +11,7 @@ PyRun::PyRun(QString execFile)
     this->execFile = execFile.toStdWString();
 
     QStringList pythonPath;
-    pythonPath << QDir::toNativeSeparators(QFileInfo(QFileInfo(execFile).absoluteDir(), "libpy34.zip").canonicalFilePath());
+    pythonPath << QDir::toNativeSeparators(QFileInfo(QFileInfo(execFile).absoluteDir(), "libpy36.zip").canonicalFilePath());
 
     this->pythonPath = pythonPath.join(":").toStdWString();
 
@@ -19,7 +19,14 @@ PyRun::PyRun(QString execFile)
     Py_SetProgramName((wchar_t*) this->execFile.c_str());
 
     // Set module search path
-    Py_SetPath(this->pythonPath.c_str());
+//    Py_SetPath(this->pythonPath.c_str());
+    /** @20190220
+     *  The above operation will change default search path of python standard
+     *  library, while for statically compiled 'libpy36.zip', there will be error
+     *  of "Fatal Python error: Py_Initialize: Unable to get the locale encoding".
+     *  If the above operation is commented, search path of python standard
+     *  library will be the default and achieved by Py_GetPath() function.
+     */
 
     Py_NoSiteFlag = 1;
 

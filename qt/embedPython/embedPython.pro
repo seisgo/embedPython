@@ -21,13 +21,13 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui
 
-INCLUDEPATH += /usr/include/python3.4m
+INCLUDEPATH += -I /usr/local/anaconda3/include/python3.6m
 
-LIBS += -L/usr/lib/x86_64-linux-gnu
+LIBS += -L/usr/local/anaconda3/lib -Wl,-Bstatic -Wl,-Bdynamic
 
-LIBS += -Wl,-Bstatic -lpython3.4m -Wl,-Bdynamic
+LIBS += -lpython3.6m -lpthread -ldl  -lutil -lrt -lm -lz -lexpat
 
-LIBS += -lz -lexpat -ldl -lutil
+LIBS += -Xlinker -export-dynamic
 
 RESOURCES += \
     embedPython.qrc
